@@ -1,6 +1,0 @@
-C:\Users\opilane\Desktop\Operators1\Operators1\bin\Debug\Operators1.exe
-C:\Users\opilane\Desktop\Operators1\Operators1\bin\Debug\Operators1.pdb
-C:\Users\opilane\Desktop\Operators1\Operators1\obj\Debug\Operators1.csprojResolveAssemblyReference.cache
-C:\Users\opilane\Desktop\Operators1\Operators1\obj\Debug\Operators1.csproj.CoreCompileInputs.cache
-C:\Users\opilane\Desktop\Operators1\Operators1\obj\Debug\Operators1.exe
-C:\Users\opilane\Desktop\Operators1\Operators1\obj\Debug\Operators1.pdb
